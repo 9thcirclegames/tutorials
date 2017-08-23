@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Digital Assets Management
-categories: tutorials
+title: YAML Front Matter
+description: A very simple way to add structured data to a page.
 ---
 
 ## Welcome to GitHub Pages
