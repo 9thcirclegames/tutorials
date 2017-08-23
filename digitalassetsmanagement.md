@@ -1,9 +1,7 @@
 ---
-title: This is my title
-layout: post
+title: Digital Assets Management
+description: Tutorial on how to upload and manage digital assets in a robust way
 ---
-
-Here is my page.
 
 ## Welcome to GitHub Pages
 
