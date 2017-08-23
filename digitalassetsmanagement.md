@@ -1,7 +1,9 @@
 ---
-title: YAML Front Matter
-description: A very simple way to add structured data to a page.
+title: This is my title
+layout: post
 ---
+
+Here is my page.
 
 ## Welcome to GitHub Pages
 
