@@ -1,7 +1,6 @@
 ---
 title: Digital Assets Management
 description: Tutorial on how to upload and manage digital assets in a robust way
-layout: page
 ---
 
 ## Digital Assets Management
