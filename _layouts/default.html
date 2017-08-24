@@ -19,9 +19,12 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+	<p class="view">
 	<ul>
 		<li><a href="{{ site.baseurl }}{% link vagrantbox.md %}">Web Development VM</a></li>
+		<li><a href="{{ site.baseurl }}{% link digitalassetsmanagement.md %}">Digital Assets Management</a></li>
 	</ul>
+	</p>
 
 
         {% if site.github.is_project_page %}
