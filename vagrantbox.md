@@ -26,7 +26,7 @@ In details, these actions are performed when you run the Vagrant script:
 * Installing WordPress with a set of default options that are 99% similar to the ones we have on production server
 * Downloading and automatically activating the plugins we're using on the production server.
 * Installing a useful set of development tools which could be useful during debugging (for example phpmyadmin)
-* Installing (WP-CLI)[http://wp-cli.org] to interact with WordPress trough a command line interface
+* Installing [WP-CLI](http://wp-cli.org) to interact with WordPress trough a command line interface
 * Creating a multi-site WordPress setup which mimics the one we have on the production server.
 
 The provision script are hosted on a [GitHub repository](https://github.com/9thcirclegames/9thcirclegames-web).
