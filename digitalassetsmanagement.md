@@ -140,7 +140,7 @@ For example, if you have uploaded a digital assets _minniemouse.png_ on the _woc
 
 ### Notifications
 
-At the end of the building/deploy process, a notification will pop up on the #deployments channel of 9th Circle Games slack with the building status: __passed__ vs __errors__.
+At the end of the building/deploy process, a notification will pop up on the #deployments channel of [9th Circle Games Slack](https://9thcirclegames.slack.com) with the building status: __green__ (for passed) vs __red__ (for failed).
 
 This way, you can easily check if your assets went correctly deployed on the production server and you don't need to check the log every time. You're going to check the log only if the notification states that an error is occurred.
 
