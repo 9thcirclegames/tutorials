@@ -11,7 +11,7 @@ This tutorial covers all the standards and the procedures we use to ensure that 
 
 The Web Architecture we use is based on WordPress MultiSite configuration executing trough a static cache to speed up loading times. These are the main components running on the server:
 
-* __WordPress__, of course. We use a multisite installation which is provisioned in a Vagrant Box. _[Learn more]({% link vagrantbox.md %})_.
+* __WordPress__, of course. We use a multisite installation which is provisioned in a Vagrant Box. _[Learn more]({{ site.baseurl }}{% link vagrantbox.md %})_.
 * __[WPML](https://wpml.org)__, for multilanguage/localizing websites.
 * __[Divi](https://www.elegantthemes.com/gallery/divi)__, by Elegant Themes. This is a premium theme which have a [very advanced page builder](https://www.elegantthemes.com/plugins/divi-builder/) which really speeds up coding. We use it as common features baseline.
 * __Products & Brands WordPress Themes__. These themes are built by us in form of Divi child themes. A typical example is [the one we made](https://github.com/9thcirclegames/eden-wp) for our game __Eden: Deception__. See below on how to develop such those themes.
