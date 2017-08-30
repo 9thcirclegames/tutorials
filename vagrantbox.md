@@ -51,6 +51,14 @@ brew install cask
 brew cask install virtualbox
 ```
 
+Then, install some needed vagrant plugins before proceed:
+
+```
+vagrant plugin install vagrant-hostsupdater
+vagrant plugin install vagrant-vbguest
+```
+
+
 __Note:__ the above works only on Mac.
 
 Then, you need to download the [repository zip file](https://github.com/9thcirclegames/9thcirclegames-web/archive/master.zip) and unzip it on a proper folder.
